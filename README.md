@@ -1,7 +1,6 @@
 # Android_Studio
 
 ## Moble testing Android
-## HW_1
 
 ```
 1) Install Android Studio on the Windows 11
